@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+#### Thank you for taking the time to check out my Github profile!
+
 - 🌱 I’m currently learning: <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="csharp" alt="csharp" height="20" width="20"/> <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg" title="csharp" alt="csharp" height="20" width="20"/> 
 
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dan-lindeblom/)
